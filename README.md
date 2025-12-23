@@ -22,8 +22,8 @@ create DAX measures, and design an insightful dashboard.
 
 ## 📁 Project Structure
 ├── HR_Analytics_Dashboard.pbix  
-├── data/HR_Analytics.csv  
-├── screenshots/dashboard.png  
+├── HR_Analytics.csv  
+├── Dashboard.png  
 └── README.md  
 
 ## ⚠️ Note
