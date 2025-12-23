@@ -1,0 +1,31 @@
+﻿According to age,,,,,According to department,,,,,According to Salary range,,,
+Count of EmpID,Column Labels,,,,Count of EmpID,Column Labels,,,,Count of EmpID,Column Labels,,
+Row Labels,No,Yes,Grand Total,,Row Labels,No,Yes,Grand Total,,Row Labels,No,Yes,Grand Total
+18-25,64.23%,35.77%,100.00%,,Human Resources,80.95%,19.05%,100.00%,,10k-15k,86.00%,14.00%,100.00%
+26-35,81.01%,18.99%,100.00%,,Research & Development,86.25%,13.75%,100.00%,,15k+,96.24%,3.76%,100.00%
+36-45,90.87%,9.13%,100.00%,,Sales,79.33%,20.67%,100.00%,,5k-10k,88.96%,11.04%,100.00%
+46-55,88.16%,11.84%,100.00%,,Grand Total,83.92%,16.08%,100.00%,,Upto 5k,78.35%,21.65%,100.00%
+55+,82.98%,17.02%,100.00%,,,,,,,Grand Total,83.92%,16.08%,100.00%
+Grand Total,83.92%,16.08%,100.00%,,,,,,,,,,
+,,,,,According to Gender,,,,,,,,
+According to Educational field,,,,,Count of EmpID,Column Labels,,,,,,,
+Count of EmpID,Column Labels,,,,Row Labels,No,Yes,Grand Total,,,,,
+Row Labels,No,Yes,Grand Total,,Female,85.28%,14.72%,100.00%,,According to Over time,,,
+Human Resources,74.07%,25.93%,100.00%,,Male,83.01%,16.99%,100.00%,,Count of EmpID,Column Labels,,
+Life Sciences,85.34%,14.66%,100.00%,,Grand Total,83.92%,16.08%,100.00%,,Row Labels,No,Yes,Grand Total
+Marketing,77.64%,22.36%,100.00%,,,,,,,No,89.64%,10.36%,100.00%
+Medical,86.60%,13.40%,100.00%,,,,,,,Yes,69.38%,30.62%,100.00%
+Other,86.75%,13.25%,100.00%,,,,,,,Grand Total,83.92%,16.08%,100.00%
+Technical Degree,75.76%,24.24%,100.00%,,According to Job role,,,,,,,,
+Grand Total,83.92%,16.08%,100.00%,,Count of EmpID,Column Labels,,,,,,,
+,,,,,Row Labels,No,Yes,Grand Total,,,,,
+According to Environment satisfaction,,,,,Healthcare Representative,93.18%,6.82%,100.00%,,,,,
+Count of EmpID,Column Labels,,,,Human Resources,76.92%,23.08%,100.00%,,,,,
+Row Labels,No,Yes,Grand Total,,Laboratory Technician,76.25%,23.75%,100.00%,,,,,
+1,77.13%,22.87%,100.00%,,Manager,95.10%,4.90%,100.00%,,,,,
+2,83.69%,16.31%,100.00%,,Manufacturing Director,93.20%,6.80%,100.00%,,,,,
+3,83.56%,16.44%,100.00%,,Research Director,97.50%,2.50%,100.00%,,,,,
+4,88.72%,11.28%,100.00%,,Research Scientist,83.96%,16.04%,100.00%,,,,,
+Grand Total,83.92%,16.08%,100.00%,,Sales Executive,82.37%,17.63%,100.00%,,,,,
+,,,,,Sales Representative,60.71%,39.29%,100.00%,,,,,
+,,,,,Grand Total,83.92%,16.08%,100.00%,,,,,
