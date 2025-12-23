@@ -1,5 +1,9 @@
 # HR Analytics Dashboard (Power BI)
 
+## 📷 Dashboard Preview
+![HR Analytics Dashboard](Dashboard.png)
+
+
 ## 📌 Project Overview
 This project focuses on building an interactive HR Analytics dashboard using Power BI.
 The dataset used was already cleaned, and the objective was to perform data modeling,
@@ -26,6 +30,4 @@ create DAX measures, and design an insightful dashboard.
 No data cleaning was performed as the dataset was already clean.
 The project focuses purely on Power BI dashboarding and visualization.
 
-## 📷 Dashboard Preview
-[HR Analytics Dashboard](Dashboard.png)
 
