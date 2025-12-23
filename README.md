@@ -27,5 +27,5 @@ No data cleaning was performed as the dataset was already clean.
 The project focuses purely on Power BI dashboarding and visualization.
 
 ## 📷 Dashboard Preview
-[HR Analytics Dashboard](screenshots/Dashboard.png)
+[HR Analytics Dashboard](Dashboard.png)
 
